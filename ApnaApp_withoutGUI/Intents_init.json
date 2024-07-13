@@ -1,0 +1,304 @@
+{
+    "intents": [
+        {
+            "tag": "question1",
+            "patterns": [
+                "How are you feeling today?"
+            ],
+            "options": {
+                "a": {
+                    "text": "Good",
+                    "points": 3
+                },
+                "b": {
+                    "text": "Okay",
+                    "points": 2
+                },
+                "c": {
+                    "text": "Bad",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question2",
+            "patterns": [
+                "What is your favorite activity?"
+            ],
+            "options": {
+                "a": {
+                    "text": "Reading",
+                    "points": 2
+                },
+                "b": {
+                    "text": "Exercise",
+                    "points": 3
+                },
+                "c": {
+                    "text": "Watching TV",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question3",
+            "patterns": [
+                "How well did you sleep last night?"
+            ],
+            "options": {
+                "a": {
+                    "text": "Very well",
+                    "points": 3
+                },
+                "b": {
+                    "text": "Average",
+                    "points": 2
+                },
+                "c": {
+                    "text": "Poorly",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question4",
+            "patterns": [
+                "What is your preferred relaxation method?"
+            ],
+            "options": {
+                "a": {
+                    "text": "Meditation",
+                    "points": 3
+                },
+                "b": {
+                    "text": "Listening to music",
+                    "points": 2
+                },
+                "c": {
+                    "text": "Taking a walk",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question5",
+            "patterns": [
+                "Do you engage in social activities?"
+            ],
+            "options": {
+                "a": {
+                    "text": "Frequently",
+                    "points": 3
+                },
+                "b": {
+                    "text": "Occasionally",
+                    "points": 2
+                },
+                "c": {
+                    "text": "Rarely",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question6",
+            "patterns": [
+                "What is your favorite type of exercise?"
+            ],
+            "options": {
+                "a": {
+                    "text": "Running",
+                    "points": 3
+                },
+                "b": {
+                    "text": "Yoga",
+                    "points": 2
+                },
+                "c": {
+                    "text": "Weightlifting",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question7",
+            "patterns": [
+                "How do you handle stress?"
+            ],
+            "options": {
+                "a": {
+                    "text": "Deep breathing",
+                    "points": 3
+                },
+                "b": {
+                    "text": "Talking to friends",
+                    "points": 2
+                },
+                "c": {
+                    "text": "Ignoring it",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question8",
+            "patterns": [
+                "What is your favorite outdoor activity?"
+            ],
+            "options": {
+                "a": {
+                    "text": "Hiking",
+                    "points": 3
+                },
+                "b": {
+                    "text": "Picnics",
+                    "points": 2
+                },
+                "c": {
+                    "text": "Sunbathing",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question9",
+            "patterns": [
+                "How often do you practice mindfulness?"
+            ],
+            "options": {
+                "a": {
+                    "text": "Daily",
+                    "points": 3
+                },
+                "b": {
+                    "text": "Weekly",
+                    "points": 2
+                },
+                "c": {
+                    "text": "Rarely",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question10",
+            "patterns": [
+                "What is your favorite type of music?"
+            ],
+            "options": {
+                "a": {
+                    "text": "Classical",
+                    "points": 3
+                },
+                "b": {
+                    "text": "Pop",
+                    "points": 2
+                },
+                "c": {
+                    "text": "Rock",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question11",
+            "patterns": [
+                "How would you describe your energy levels on a typical day?\na)High b)Moderate c)Low"
+            ],
+            "options": {
+                "a": {
+                    "text": "High",
+                    "points": 3
+                },
+                "b": {
+                    "text": "Moderate",
+                    "points": 2
+                },
+                "c": {
+                    "text": "Low",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question12",
+            "patterns": [
+                "How well are you sleeping lately?\na)Well b)Moderately c)Poorly"
+            ],
+            "options": {
+                "a": {
+                    "text": "Well",
+                    "points": 3
+                },
+                "b": {
+                    "text": "Moderately",
+                    "points": 2
+                },
+                "c": {
+                    "text": "Poorly",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question13",
+            "patterns": [
+                "What so you think your stress level is on a regular day?\na)Very high b)Moderate c)No stress at all"
+            ],
+            "options": {
+                "a": {
+                    "text": "Very high",
+                    "points": 3
+                },
+                "b": {
+                    "text": "Moderate",
+                    "points": 2
+                },
+                "c": {
+                    "text": "No stress at all",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question14",
+            "patterns": [
+                "Do ou find your life fulfilling?\na)Yes b)Neutral c)No"
+            ],
+            "options": {
+                "a": {
+                    "text": "Yes",
+                    "points": 3
+                },
+                "b": {
+                    "text": "Neutral",
+                    "points": 2
+                },
+                "c": {
+                    "text": "No",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question15",
+            "patterns": [
+                "Do you feel lonely and don't have someone to share your feelings with?\na)Yes, often b)Occasionally c)No, I have a strong support system"
+            ],
+            "options": {
+                "a": {
+                    "text": "Yes, often",
+                    "points": 3
+                },
+                "b": {
+                    "text": "Occasionally",
+                    "points": 2
+                },
+                "c": {
+                    "text": "No, I have a strong support system",
+                    "points": 1
+                }
+            }
+        }
+    ]
+}
