@@ -39,4 +39,6 @@ This innovative mobile application is designed to identify individuals at risk o
 
 - Integrating mental health support within educational and professional platforms to create a mentally healthy environment.
 
+# About the project
+This project was developed by me and my team, Free Thinkers_2024, during the SIH Grand Finale 2023. We are dedicated to creating innovative solutions that promote mental well-being and awareness in a secure and user-friendly manner.
 
