@@ -1,8 +1,8 @@
 # Self identifying Mental Health status and get guidance for support
-This innovative mobile application is designed to identify individuals at risk of developing mental disorders at an early stage, enabling timely intervention and support. The app prioritizes robust data encryption and user data privacy to build trust and ensure secure interactions without human involvement.
+This innovative application is designed to identify individuals at risk of developing mental disorders at an early stage, enabling timely intervention and support. The app prioritizes robust data encryption and user data privacy to build trust and ensure secure interactions without human involvement.
 
 # Idea-Approach
-* This Mobile Application is developed to identify the people at risk of developing mental disorders at an early stage to take the necessary action.
+* This Application is developed to identify the people at risk of developing mental disorders at an early stage to take the necessary action.
 
 * Ensure robust data encryption and user data privacy to build trust without Human Interaction.
 
