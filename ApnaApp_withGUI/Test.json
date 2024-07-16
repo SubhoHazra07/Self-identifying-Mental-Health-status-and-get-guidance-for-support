@@ -1,0 +1,1357 @@
+{
+    "intents": [
+        {
+            "tag": "question1",
+            "patterns": [
+                "Do you find little or no interest in doing things?\na)Not at all\nb)Several days\nc)More than half the days\nd)Nearly everyday\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Not at all",
+                    "points": 4
+                },
+                "b": {
+                    "text": "Several days",
+                    "points": 3
+                },
+                "c": {
+                    "text": "More than half the days",
+                    "points": 2
+                },
+                "d": {
+                    "text":"Nearly everyday",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question2",
+            "patterns": [
+                "Do you feel down, depressed or hopeless?\na)Not at all\nb)Several days\nc)More than half the days\nd)Nearly everyday\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Not at all",
+                    "points": 4
+                },
+                "b": {
+                    "text": "Several days",
+                    "points": 3
+                },
+                "c": {
+                    "text": "More than half the days",
+                    "points": 2
+                },
+                "d": {
+                    "text":"Nearly everyday",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question3",
+            "patterns": [
+                "Do you find trouble falling or staying asleep, or maybe you are sleeping too much?\na)Not at all\nb)Several days\nc)More than half the days\nd)Nearly everyday\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Not at all",
+                    "points": 4
+                },
+                "b": {
+                    "text": "Several days",
+                    "points": 3
+                },
+                "c": {
+                    "text": "More than half the days",
+                    "points": 2
+                },
+                "d": {
+                    "text":"Nearly everyday",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question4",
+            "patterns": [
+                "Do you feel tired or have little energy?\na)Not at all\nb)Several days\nc)More than half the days\nd)Nearly everyday\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Not at all",
+                    "points": 4
+                },
+                "b": {
+                    "text": "Several days",
+                    "points": 3
+                },
+                "c": {
+                    "text": "More than half the days",
+                    "points": 2
+                },
+                "d": {
+                    "text":"Nearly everyday",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question5",
+            "patterns": [
+                "Are you having poor apetite or overeating?\na)Not at all\nb)Several days\nc)More than half the days\nd)Nearly everyday\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Not at all",
+                    "points": 4
+                },
+                "b": {
+                    "text": "Several days",
+                    "points": 3
+                },
+                "c": {
+                    "text": "More than half the days",
+                    "points": 2
+                },
+                "d": {
+                    "text":"Nearly everyday",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question6",
+            "patterns": [
+                "Are you feeling bad about yourself(e.g. you are a failure or have let yourself or your family down)?\na)Not at all\nb)Several days\nc)More than half the days\nd)Nearly everyday\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Not at all",
+                    "points": 4
+                },
+                "b": {
+                    "text": "Several days",
+                    "points": 3
+                },
+                "c": {
+                    "text": "More than half the days",
+                    "points": 2
+                },
+                "d": {
+                    "text":"Nearly everyday",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question7",
+            "patterns": [
+                "Do you finding it difficult to concentrate on things?\na)Not at all\nb)Several days\nc)More than half the days\nd)Nearly everyday\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Not at all",
+                    "points": 4
+                },
+                "b": {
+                    "text": "Several days",
+                    "points": 3
+                },
+                "c": {
+                    "text": "More than half the days",
+                    "points": 2
+                },
+                "d": {
+                    "text":"Nearly everyday",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question8",
+            "patterns": [
+                "Are you moving or speaking so slowly or quickly that other people could have noticed?\na)Not at all\nb)Several days\nc)More than half the days\nd)Nearly everyday\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Not at all",
+                    "points": 4
+                },
+                "b": {
+                    "text": "Several days",
+                    "points": 3
+                },
+                "c": {
+                    "text": "More than half the days",
+                    "points": 2
+                },
+                "d": {
+                    "text":"Nearly everyday",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question9",
+            "patterns": [
+                "Are you having thoughts of committing  or hurting yourself?\na)Not at all\nb)Several days\nc)More than half the days\nd)Nearly everyday\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Not at all",
+                    "points": 4
+                },
+                "b": {
+                    "text": "Several days",
+                    "points": 3
+                },
+                "c": {
+                    "text": "More than half the days",
+                    "points": 2
+                },
+                "d": {
+                    "text":"Nearly everyday",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question10",
+            "patterns": [
+                "When you check off problems, how difficult do you think have these problems made it for you at work, home or with other people?\na)Not difficult at all\nb)Somewhat difficult\nc)Very difficult\nd)Extremely difficult\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Not difficult at all",
+                    "points": 4
+                },
+                "b": {
+                    "text": "Somewhat difficult",
+                    "points": 3
+                },
+                "c": {
+                    "text": "Very difficult",
+                    "points": 2
+                },
+                "d": {
+                    "text":"Extremely difficult",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question11",
+            "patterns": [
+                "Do you feel nervous, anxious or on the edge?\na)Not at all\nb)Several days\nc)More than half the days\nd)Nearly everyday\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Not at all",
+                    "points": 4
+                },
+                "b": {
+                    "text": "Several days",
+                    "points": 3
+                },
+                "c": {
+                    "text": "More than half the days",
+                    "points": 2
+                },
+                "d": {
+                    "text":"Nearly everyday",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question12",
+            "patterns": [
+                "Are you not being able to stop or control worrying?\na)Not at all\nb)Several days\nc)More than half the days\nd)Nearly everyday\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Not at all",
+                    "points": 4
+                },
+                "b": {
+                    "text": "Several days",
+                    "points": 3
+                },
+                "c": {
+                    "text": "More than half the days",
+                    "points": 2
+                },
+                "d": {
+                    "text":"Nearly everyday",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question13",
+            "patterns": [
+                "Do you worry too much about different things?\na)Not at all\nb)Several days\nc)More than half the days\nd)Nearly everyday\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Not at all",
+                    "points": 4
+                },
+                "b": {
+                    "text": "Several days",
+                    "points": 3
+                },
+                "c": {
+                    "text": "More than half the days",
+                    "points": 2
+                },
+                "d": {
+                    "text":"Nearly everyday",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question14",
+            "patterns": [
+                "Do you have trouble relaxing?\na)Not at all\nb)Several days\nc)More than half the days\nd)Nearly everyday\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Not at all",
+                    "points": 4
+                },
+                "b": {
+                    "text": "Several days",
+                    "points": 3
+                },
+                "c": {
+                    "text": "More than half the days",
+                    "points": 2
+                },
+                "d": {
+                    "text":"Nearly everyday",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question15",
+            "patterns": [
+                "Do you feel so restless that it becomes to relax?\na)Not at all\nb)Several days\nc)More than half the days\nd)Nearly everyday\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Not at all",
+                    "points": 4
+                },
+                "b": {
+                    "text": "Several days",
+                    "points": 3
+                },
+                "c": {
+                    "text": "More than half the days",
+                    "points": 2
+                },
+                "d": {
+                    "text":"Nearly everyday",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question16",
+            "patterns": [
+                "Do you easily become annoyed or irritable?\na)Not at all\nb)Several days\nc)More than half the days\nd)Nearly everyday\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Not at all",
+                    "points": 4
+                },
+                "b": {
+                    "text": "Several days",
+                    "points": 3
+                },
+                "c": {
+                    "text": "More than half the days",
+                    "points": 2
+                },
+                "d": {
+                    "text":"Nearly everyday",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question17",
+            "patterns": [
+                "Do you feel afraid as if something awful might happen?\na)Not at all\nb)Several days\nc)More than half the days\nd)Nearly everyday\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Not at all",
+                    "points": 4
+                },
+                "b": {
+                    "text": "Several days",
+                    "points": 3
+                },
+                "c": {
+                    "text": "More than half the days",
+                    "points": 2
+                },
+                "d": {
+                    "text":"Nearly everyday",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question18",
+            "patterns": [
+                "Did it ever happen that you felt so good or hyper that other people thought that you were not your normal self or were so hyper that you got into trouble?\na)Yes\nb)No\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Yes",
+                    "points": 1
+                },
+                "b": {
+                    "text": "No",
+                    "points": 3
+                }
+            }
+        },
+        {
+            "tag": "question19",
+            "patterns": [
+                "Did it ever happen that you were so irritable that you shouted at people or started fights or arguments?\na)Yes\nb)No\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Yes",
+                    "points": 1
+                },
+                "b": {
+                    "text": "No",
+                    "points": 3
+                }
+            }
+        },
+        {
+            "tag": "question20",
+            "patterns": [
+                "Did it ever happen that you felt much more self-confident than usual?\na)Yes\nb)No\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Yes",
+                    "points": 1
+                },
+                "b": {
+                    "text": "No",
+                    "points": 3
+                }
+            }
+        },
+        {
+            "tag": "question21",
+            "patterns": [
+                "Did it ever happen that you got much less sleep than usual and found you didn't really miss it?\na)Yes\nb)No\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Yes",
+                    "points": 1
+                },
+                "b": {
+                    "text": "No",
+                    "points": 3
+                }
+            }
+        },
+        {
+            "tag": "question22",
+            "patterns": [
+                "Did it ever happen that you were much more talkative and spoke much faster than usual?\na)Yes\nb)No\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Yes",
+                    "points": 1
+                },
+                "b": {
+                    "text": "No",
+                    "points": 3
+                }
+            }
+        },
+        {
+            "tag": "question24",
+            "patterns": [
+                "Did it ever happen that thoughts raced through your head and you couldn't slow your mind down?\na)Yes\nb)No\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Yes",
+                    "points": 1
+                },
+                "b": {
+                    "text": "No",
+                    "points": 3
+                }
+            }
+        },
+        {
+            "tag": "question25",
+            "patterns": [
+                "Did it ever happen that you were very easily distracted?\na)Yes\nb)No\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Yes",
+                    "points": 1
+                },
+                "b": {
+                    "text": "No",
+                    "points": 3
+                }
+            }
+        },
+        {
+            "tag": "question26",
+            "patterns": [
+                "Did it ever happen that you had much more energy than usual?\na)Yes\nb)No\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Yes",
+                    "points": 1
+                },
+                "b": {
+                    "text": "No",
+                    "points": 3
+                }
+            }
+        },
+        {
+            "tag": "question27",
+            "patterns": [
+                "Did it ever happen that you were more social or outgoing than usual?\na)Yes\nb)No\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Yes",
+                    "points": 1
+                },
+                "b": {
+                    "text": "No",
+                    "points": 3
+                }
+            }
+        },
+        {
+            "tag": "question28",
+            "patterns": [
+                "Did any of your blood relatives had manic-depressive illness or bipolar disease?\na)Yes\nb)No\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Yes",
+                    "points": 1
+                },
+                "b": {
+                    "text": "No",
+                    "points": 3
+                }
+            }
+        },
+        {
+            "tag": "question29",
+            "patterns": [
+                "Have you ever felt that you ought to cut down on your drinking or drug use?\na)Yes\nb)No\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Yes",
+                    "points": 1
+                },
+                "b": {
+                    "text": "No",
+                    "points": 3
+                }
+            }
+        },
+        {
+            "tag": "question30",
+            "patterns": [
+                "Have people annoyed you by criticizing on your drinking or drug use?\na)Yes\nb)No\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Yes",
+                    "points": 1
+                },
+                "b": {
+                    "text": "No",
+                    "points": 3
+                }
+            }
+        },
+        {
+            "tag": "question31",
+            "patterns": [
+                "Have you ever felt bad about your drinking or drug use?\na)Yes\nb)No\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Yes",
+                    "points": 1
+                },
+                "b": {
+                    "text": "No",
+                    "points": 3
+                }
+            }
+        },
+        {
+            "tag": "question32",
+            "patterns": [
+                "Have you ever had a drink or used drugs first thing in the morning to steady your nerves or to get rid of a handover?\na)Yes\nb)No\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Yes",
+                    "points": 1
+                },
+                "b": {
+                    "text": "No",
+                    "points": 3
+                }
+            }
+        },
+        {
+            "tag": "question33",
+            "patterns": [
+                "Do familiar surrounding sometimes seem strange, confusing, threatening or unreal to you?\na)Yes\nb)No\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Yes",
+                    "points": 1
+                },
+                "b": {
+                    "text": "No",
+                    "points": 3
+                }
+            }
+        },
+        {
+            "tag": "question34",
+            "patterns": [
+                "Have you heard unusual sounds like banfing, clicking, hissing, clapping or ringing in your ears?\na)Yes\nb)No\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Yes",
+                    "points": 1
+                },
+                "b": {
+                    "text": "No",
+                    "points": 3
+                }
+            }
+        },
+        {
+            "tag": "question35",
+            "patterns": [
+                "Do things that you see appear different from the way they usually do?\na)Yes\nb)No\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Yes",
+                    "points": 1
+                },
+                "b": {
+                    "text": "No",
+                    "points": 3
+                }
+            }
+        },
+        {
+            "tag": "question36",
+            "patterns": [
+                "Have you ever felt that you are not in control of your own ideas or thoughts?\na)Yes\nb)No\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Yes",
+                    "points": 1
+                },
+                "b": {
+                    "text": "No",
+                    "points": 3
+                }
+            }
+        },
+        {
+            "tag": "question37",
+            "patterns": [
+                "Do you have difficulty geiing your point across because you go off the track a lot when you talk?\na)Yes\nb)No\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Yes",
+                    "points": 1
+                },
+                "b": {
+                    "text": "No",
+                    "points": 3
+                }
+            }
+        },
+        {
+            "tag": "question38",
+            "patterns": [
+                "Do you feel that other people are watching you or talking about you?\na)Yes\nb)No\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Yes",
+                    "points": 1
+                },
+                "b": {
+                    "text": "No",
+                    "points": 3
+                }
+            }
+        },
+        {
+            "tag": "question39",
+            "patterns": [
+                "Do you sometimes get strange feelings on or just beneath you skin, like bugs crawling?\na)Yes\nb)No\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Yes",
+                    "points": 1
+                },
+                "b": {
+                    "text": "No",
+                    "points": 3
+                }
+            }
+        },
+        {
+            "tag": "question40",
+            "patterns": [
+                "Do you suddnely feel distracted by distant sounds that you are not aware of?\na)Yes\nb)No\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Yes",
+                    "points": 1
+                },
+                "b": {
+                    "text": "No",
+                    "points": 3
+                }
+            }
+        },
+        {
+            "tag": "question41",
+            "patterns": [
+                "Have you had sense that some person or force is around you, although you couldn't see anyone?\na)Yes\nb)No\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Yes",
+                    "points": 1
+                },
+                "b": {
+                    "text": "No",
+                    "points": 3
+                }
+            }
+        },
+        {
+            "tag": "question42",
+            "patterns": [
+                "Do you worry at times that something may be wrong with your mind?\na)Yes\nb)No\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Yes",
+                    "points": 1
+                },
+                "b": {
+                    "text": "No",
+                    "points": 3
+                }
+            }
+        },
+        {
+            "tag": "question43",
+            "patterns": [
+                "Have you ever felt that you don't exist, the world does not exist or that you are dead?\na)Yes\nb)No\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Yes",
+                    "points": 1
+                },
+                "b": {
+                    "text": "No",
+                    "points": 3
+                }
+            }
+        },
+        {
+            "tag": "question44",
+            "patterns": [
+                "Have you been confused at times that something that you experienced was real ot imaginary?\na)Yes\nb)No\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Yes",
+                    "points": 1
+                },
+                "b": {
+                    "text": "No",
+                    "points": 3
+                }
+            }
+        },
+        {
+            "tag": "question45",
+            "patterns": [
+                "Do you hold beliefs that other people would find unusual or bizarre?\na)Yes\nb)No\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Yes",
+                    "points": 1
+                },
+                "b": {
+                    "text": "No",
+                    "points": 3
+                }
+            }
+        },
+        {
+            "tag": "question46",
+            "patterns": [
+                "Do you feel that parts of your body have changed in some way or that parts of your body are working differently?\na)Yes\nb)No\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Yes",
+                    "points": 1
+                },
+                "b": {
+                    "text": "No",
+                    "points": 3
+                }
+            }
+        },
+        {
+            "tag": "question47",
+            "patterns": [
+                "Are your thoughts almost so strong that you can hear them?\na)Yes\nb)No\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Yes",
+                    "points": 1
+                },
+                "b": {
+                    "text": "No",
+                    "points": 3
+                }
+            }
+        },
+        {
+            "tag": "question48",
+            "patterns": [
+                "Do you find yourself feeling mistrustful or suspicious of other people?\na)Yes\nb)No\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Yes",
+                    "points": 1
+                },
+                "b": {
+                    "text": "No",
+                    "points": 3
+                }
+            }
+        },
+        {
+            "tag": "question49",
+            "patterns": [
+                "Have you seen things that other people can't see or don't seem to see?\na)Yes\nb)No\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Yes",
+                    "points": 1
+                },
+                "b": {
+                    "text": "No",
+                    "points": 3
+                }
+            }
+        },
+        {
+            "tag": "question50",
+            "patterns": [
+                "Do people sometimes find it hard to understand what you are saying?\na)Yes\nb)No\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Yes",
+                    "points": 1
+                },
+                "b": {
+                    "text": "No",
+                    "points": 3
+                }
+            }
+        },
+        {
+            "tag": "question51",
+            "patterns": [
+                "How often do you have trouble wrapping up the final details of a project, once the challenging parts have been done?\na)Never\nb)Rarely\nc)Often\nd)Very often\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Never",
+                    "points": 4
+                },
+                "b": {
+                    "text": "Rarely",
+                    "points": 3
+                },
+                "c": {
+                    "text": "Often",
+                    "points": 2
+                },
+                "d": {
+                    "text":"Very often",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question52",
+            "patterns": [
+                "How often do you have difficulty getting things in order when you have to do a task that requires organization?\na)Never\nb)Rarely\nc)Often\nd)Very often\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Never",
+                    "points": 4
+                },
+                "b": {
+                    "text": "Rarely",
+                    "points": 3
+                },
+                "c": {
+                    "text": "Often",
+                    "points": 2
+                },
+                "d": {
+                    "text":"Very often",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question53",
+            "patterns": [
+                "How often do you have problems remembering appointments or obligations?\na)Never\nb)Rarely\nc)Often\nd)Very often\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Never",
+                    "points": 4
+                },
+                "b": {
+                    "text": "Rarely",
+                    "points": 3
+                },
+                "c": {
+                    "text": "Often",
+                    "points": 2
+                },
+                "d": {
+                    "text":"Very often",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question54",
+            "patterns": [
+                "When you have a task that requires a lot of thought, how often do you avoid or delay getting started?\na)Never\nb)Rarely\nc)Often\nd)Very often\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Never",
+                    "points": 4
+                },
+                "b": {
+                    "text": "Rarely",
+                    "points": 3
+                },
+                "c": {
+                    "text": "Often",
+                    "points": 2
+                },
+                "d": {
+                    "text":"Very often",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question55",
+            "patterns": [
+                "How often do you fidget or squirm with your hands or feet when you have to sit down for a long time?\na)Never\nb)Rarely\nc)Often\nd)Very often\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Never",
+                    "points": 4
+                },
+                "b": {
+                    "text": "Rarely",
+                    "points": 3
+                },
+                "c": {
+                    "text": "Often",
+                    "points": 2
+                },
+                "d": {
+                    "text":"Very often",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question56",
+            "patterns": [
+                "How often do you feel overly active and compelled to do things, like you were driven by a motor?\na)Never\nb)Rarely\nc)Often\nd)Very often\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Never",
+                    "points": 4
+                },
+                "b": {
+                    "text": "Rarely",
+                    "points": 3
+                },
+                "c": {
+                    "text": "Often",
+                    "points": 2
+                },
+                "d": {
+                    "text":"Very often",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question57",
+            "patterns": [
+                "How often do you make careless mistakes when you have to work on a boring or difficult project?\na)Never\nb)Rarely\nc)Often\nd)Very often\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Never",
+                    "points": 4
+                },
+                "b": {
+                    "text": "Rarely",
+                    "points": 3
+                },
+                "c": {
+                    "text": "Often",
+                    "points": 2
+                },
+                "d": {
+                    "text":"Very often",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question58",
+            "patterns": [
+                "How often do you have difficulty keeeping your attention when you are doing boring ot repetitive work?\na)Never\nb)Rarely\nc)Often\nd)Very often\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Never",
+                    "points": 4
+                },
+                "b": {
+                    "text": "Rarely",
+                    "points": 3
+                },
+                "c": {
+                    "text": "Often",
+                    "points": 2
+                },
+                "d": {
+                    "text":"Very often",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question59",
+            "patterns": [
+                "How often do you have difficulty concentrating on what people say to you, even when they are speaking to you directly?\na)Never\nb)Rarely\nc)Often\nd)Very often\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Never",
+                    "points": 4
+                },
+                "b": {
+                    "text": "Rarely",
+                    "points": 3
+                },
+                "c": {
+                    "text": "Often",
+                    "points": 2
+                },
+                "d": {
+                    "text":"Very often",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question60",
+            "patterns": [
+                "How often do you misplace or have difficulty finding things at home or at work?\na)Never\nb)Rarely\nc)Often\nd)Very often\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Never",
+                    "points": 4
+                },
+                "b": {
+                    "text": "Rarely",
+                    "points": 3
+                },
+                "c": {
+                    "text": "Often",
+                    "points": 2
+                },
+                "d": {
+                    "text":"Very often",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question61",
+            "patterns": [
+                "How often are you distracted by activity or noise around you?\na)Never\nb)Rarely\nc)Often\nd)Very often\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Never",
+                    "points": 4
+                },
+                "b": {
+                    "text": "Rarely",
+                    "points": 3
+                },
+                "c": {
+                    "text": "Often",
+                    "points": 2
+                },
+                "d": {
+                    "text":"Very often",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question62",
+            "patterns": [
+                "How often do you leave your seat in meetings or other situations in which you are expected to remain seated?\na)Never\nb)Rarely\nc)Often\nd)Very often\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Never",
+                    "points": 4
+                },
+                "b": {
+                    "text": "Rarely",
+                    "points": 3
+                },
+                "c": {
+                    "text": "Often",
+                    "points": 2
+                },
+                "d": {
+                    "text":"Very often",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question63",
+            "patterns": [
+                "How often do you feel restless or fidgety?\na)Never\nb)Rarely\nc)Often\nd)Very often\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Never",
+                    "points": 4
+                },
+                "b": {
+                    "text": "Rarely",
+                    "points": 3
+                },
+                "c": {
+                    "text": "Often",
+                    "points": 2
+                },
+                "d": {
+                    "text":"Very often",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question64",
+            "patterns": [
+                "How often do you have difficulty unwinding and relaxing when you have time to yourself?\na)Never\nb)Rarely\nc)Often\nd)Very often\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Never",
+                    "points": 4
+                },
+                "b": {
+                    "text": "Rarely",
+                    "points": 3
+                },
+                "c": {
+                    "text": "Often",
+                    "points": 2
+                },
+                "d": {
+                    "text":"Very often",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question65",
+            "patterns": [
+                "How often do you find yourself talking too much when you are in social situations?\na)Never\nb)Rarely\nc)Often\nd)Very often\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Never",
+                    "points": 4
+                },
+                "b": {
+                    "text": "Rarely",
+                    "points": 3
+                },
+                "c": {
+                    "text": "Often",
+                    "points": 2
+                },
+                "d": {
+                    "text":"Very often",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question66",
+            "patterns": [
+                "How often do you when you are in a conversation, how often do you find yourself finishing the sentences of the people you are talking to, before they can finish them themselves?\na)Never\nb)Rarely\nc)Often\nd)Very often\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Never",
+                    "points": 4
+                },
+                "b": {
+                    "text": "Rarely",
+                    "points": 3
+                },
+                "c": {
+                    "text": "Often",
+                    "points": 2
+                },
+                "d": {
+                    "text":"Very often",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question67",
+            "patterns": [
+                "How often do you have difficulty waiting your turn in situations when turn taking is required?\na)Never\nb)Rarely\nc)Often\nd)Very often\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Never",
+                    "points": 4
+                },
+                "b": {
+                    "text": "Rarely",
+                    "points": 3
+                },
+                "c": {
+                    "text": "Often",
+                    "points": 2
+                },
+                "d": {
+                    "text":"Very often",
+                    "points": 1
+                }
+            }
+        },
+        {
+            "tag": "question67",
+            "patterns": [
+                "How often do you interrupt others when they are busy?\na)Never\nb)Rarely\nc)Often\nd)Very often\n"
+            ],
+            "options": {
+                "a": {
+                    "text": "Never",
+                    "points": 4
+                },
+                "b": {
+                    "text": "Rarely",
+                    "points": 3
+                },
+                "c": {
+                    "text": "Often",
+                    "points": 2
+                },
+                "d": {
+                    "text":"Very often",
+                    "points": 1
+                }
+            }
+        }
+    ]
+}
+        

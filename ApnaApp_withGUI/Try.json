@@ -1,0 +1,53 @@
+{
+  "mental_health_conditions": [
+    {
+      "name": "Anxiety",
+      "symptoms": ["Excessive worry", "Restlessness", "Fatigue", "Difficulty concentrating", "Irritability", "Muscle tension", "Sleep disturbances"],
+      "causes": ["Genetic factors", "Brain chemistry", "Personality", "Life events", "Medical conditions", "Drug use"],
+      "description": "Anxiety is a mental health condition characterized by persistent, excessive worry or fear.",
+      "treatments": ["Therapy (cognitive-behavioral therapy)", "Medications (antidepressants, anti-anxiety drugs)", "Lifestyle changes (exercise, stress management)"]
+    },
+    {
+      "name": "Depression",
+      "symptoms": ["Persistent sadness", "Loss of interest or pleasure", "Changes in sleep patterns", "Changes in appetite", "Fatigue", "Feelings of guilt or worthlessness", "Difficulty concentrating", "Suicidal thoughts"],
+      "causes": ["Genetics", "Brain chemistry", "Trauma or loss", "Major life changes", "Chronic medical conditions", "Certain medications"],
+      "description": "Depression is a mood disorder that causes a persistent feeling of sadness and loss of interest.",
+      "treatments": ["Therapy (counseling, psychotherapy)", "Medications (antidepressants)", "Lifestyle changes (exercise, social support)"]
+    },
+    {
+      "name": "Schizophrenia",
+      "symptoms": ["Hallucinations", "Delusions", "Disorganized thinking", "Impaired concentration", "Emotional flatness", "Social withdrawal", "Reduced motivation", "Difficulty in social relationships"],
+      "causes": ["Genetic factors", "Brain structure and neurotransmitter abnormalities", "Prenatal factors", "Drug use during adolescence"],
+      "description": "Schizophrenia is a serious mental disorder characterized by abnormal interpretations of reality.",
+      "treatments": ["Antipsychotic medications", "Psychotherapy", "Community support and rehabilitation"]
+    },
+    {
+      "name": "Bipolar Disorder",
+      "symptoms": ["Manic episodes", "Depressive episodes", "Mood swings", "Impulsivity", "Sleep disturbances", "Changes in energy levels"],
+      "causes": ["Genetic factors", "Neurochemical imbalances", "Environmental factors"],
+      "description": "Bipolar disorder, formerly known as manic-depressive illness, involves extreme mood swings from high (manic) to low (depressive) phases.",
+      "treatments": ["Mood stabilizers", "Antipsychotic medications", "Psychotherapy"]
+    },
+    {
+      "name": "Obsessive-Compulsive Disorder (OCD)",
+      "symptoms": ["Obsessions", "Compulsions", "Intrusive thoughts", "Repetitive behaviors", "Excessive worry"],
+      "causes": ["Genetics", "Brain structure abnormalities", "Environmental factors", "Neurotransmitter imbalances"],
+      "description": "OCD is characterized by intrusive thoughts and repetitive behaviors aimed at reducing anxiety.",
+      "treatments": ["Cognitive-behavioral therapy (CBT)", "Exposure and response prevention", "Medications (antidepressants)"]
+    },
+    {
+      "name": "Post-Traumatic Stress Disorder (PTSD)",
+      "symptoms": ["Flashbacks", "Nightmares", "Avoidance", "Hyperarousal", "Negative changes in mood and thinking"],
+      "causes": ["Experiencing or witnessing traumatic events", "Genetic factors", "Brain changes"],
+      "description": "PTSD can develop after exposure to a traumatic event and is characterized by persistent symptoms that interfere with daily life.",
+      "treatments": ["Trauma-focused psychotherapy", "Medications (antidepressants, anti-anxiety drugs)", "Eye Movement Desensitization and Reprocessing (EMDR)"]
+    },
+    {
+      "name": "Eating Disorders",
+      "symptoms": ["Restricted food intake", "Binge eating", "Compensatory behaviors (purging, excessive exercise)", "Distorted body image"],
+      "causes": ["Genetics", "Environmental factors", "Psychological factors"],
+      "description": "Eating disorders, such as anorexia nervosa and bulimia nervosa, involve extreme emotions, attitudes, and behaviors related to food and weight.",
+      "treatments": ["Nutritional counseling", "Psychotherapy", "Medical monitoring"]
+    }
+  ]
+}
